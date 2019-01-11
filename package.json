@@ -1,6 +1,6 @@
 {
   "name": "s3-lambda-markdown-to-docx-s3",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A Serverless Application Repository Component for converting Markdown files from one S3 bucket, into Microsoft Word DOCX files to another S3 bucket.",
   "main": "index.js",
   "scripts": {
